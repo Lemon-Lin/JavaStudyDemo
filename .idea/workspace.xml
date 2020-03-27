@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ca15535-80e5-49ec-99bb-b3138c2efbdf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/StudyJava/Gather/HashSetStudy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/StudyJava/TryCatch/ThrowEX$MyException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/StudyJava/TryCatch/ThrowEX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gather/TreeSetStudy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudyJava/TryCatch/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StudyJava/TryCatch/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gather/HashSetStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gather/HashSetStudy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudyJava/Gather/HashSetStudy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StudyJava/Gather/HashSetStudy.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZbYejkaplBAQpwDZtiRTpQnD3w" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -45,7 +44,12 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.HashSetStudy">
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Gather" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TreeSetStudy">
     <configuration name="HashSetStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Gather.HashSetStudy" />
       <module name="StudyJava" />
@@ -85,19 +89,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactoryDemo.Main" />
-      <module name="StudyJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FactoryDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TryCatch.Main" />
       <module name="StudyJava" />
@@ -111,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TreeSetStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gather.TreeSetStudy" />
+      <module name="StudyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Gather.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TreeSetStudy" />
         <item itemvalue="Application.HashSetStudy" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.InnerA" />
         <item itemvalue="Application.Inner" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +137,7 @@
       <updated>1585109357714</updated>
       <workItem from="1585109363332" duration="14378000" />
       <workItem from="1585240780004" duration="3411000" />
+      <workItem from="1585283127394" duration="5290000" />
     </task>
     <servers />
   </component>
@@ -140,34 +145,42 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="748" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1585130576276">
+    <state x="955" y="283" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585283861596">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="748" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585130576276" />
+    <state x="955" y="283" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585283861596" />
+    <state x="748" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1585285632795">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="748" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585285632795" />
     <state x="722" y="401" width="441" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585118792493">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="722" y="401" width="441" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585118792493" />
-    <state width="1084" height="210" key="GridCell.Tab.0.bottom" timestamp="1585247262507">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="890" y="112" key="CommitChangelistDialog2" timestamp="1585285302682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="890" y="112" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585285302682" />
+    <state width="1334" height="482" key="GridCell.Tab.0.bottom" timestamp="1585292718542">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1084" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585247262507" />
-    <state width="1551" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585134652848" />
-    <state width="1084" height="210" key="GridCell.Tab.0.center" timestamp="1585247262507">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1334" height="482" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585292718542" />
+    <state width="1334" height="482" key="GridCell.Tab.0.center" timestamp="1585292718542">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1084" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585247262507" />
-    <state width="1551" height="278" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585134652848" />
-    <state width="1084" height="210" key="GridCell.Tab.0.left" timestamp="1585247262506">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1334" height="482" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585292718542" />
+    <state width="1334" height="482" key="GridCell.Tab.0.left" timestamp="1585292718542">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1084" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585247262506" />
-    <state width="1551" height="278" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585134652848" />
-    <state width="1084" height="210" key="GridCell.Tab.0.right" timestamp="1585247262507">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1334" height="482" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585292718542" />
+    <state width="1334" height="482" key="GridCell.Tab.0.right" timestamp="1585292718542">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1084" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585247262507" />
-    <state width="1551" height="278" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585134652848" />
+    <state width="1334" height="482" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585292718542" />
     <state x="-145" y="190" key="run.anything.popup" timestamp="1585242860616">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
